@@ -27,19 +27,13 @@ Tópicos:
 
 ● Programação com Python
 
-○ Interpretador Python
+● Interpretador Python
 
-○ Entrada e Saída de Dados
+● Entrada e Saída de Dados
 
-○ Variáveis e tipagem de dados
+● Variáveis e tipagem de dados
 
-○ Operadores
-
-■ Matemáticos
-
-■ Comparação
-
-■ Lógicos
+● Operadores: Matemáticos; Comparação; Lógicos.
 
 ● Estruturas de dados
 

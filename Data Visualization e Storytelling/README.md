@@ -10,4 +10,5 @@ estado Rio Grande do Sul.
 • O objetivo principal da investigação é entender a distribuição entre a quantidade
 de docentes e a quantidade de matrículas dessas entidades.
 
- 
+![censo_RS](https://user-images.githubusercontent.com/104107851/206872706-fd259270-98ff-426e-aaec-4c6204d4bea9.png)
+

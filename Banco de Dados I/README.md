@@ -3,10 +3,10 @@
 **Orientações**
 
 Ao longo deste módulo aprendemos sobre:
-• Conceitos de bancos de dados
-• Modelo Entidade Relacionamento
-• Diagrama Entidade Relacionamento
-• SGBD’s e Linguagem SQL
+- Conceitos de bancos de dados
+- Modelo Entidade Relacionamento
+- Diagrama Entidade Relacionamento
+- SGBD’s e Linguagem SQL
 
 Para isso, vamos desenvolver todos os passos
 necessários para modelagem e criação de um Banco de
@@ -45,14 +45,14 @@ presença dos alunos, em cada turma.
 
 **O que será avaliado?**
 
-• Deve ser possível consultar os dados de
+- Deve ser possível consultar os dados de
 cada aluno matriculado na academia e as
 modalidades em que estão matriculados
-• Deve ser possível consultar os dados de
+- Deve ser possível consultar os dados de
 cada instrutor da academia, e os horários
 de suas turmas
-• Deve ser possível consultar o horário de
+- Deve ser possível consultar o horário de
 aula de um aluno específico
-• Deve ser possível consultar as faltas de um
+- Deve ser possível consultar as faltas de um
 aluno específico com base nas turmas em
 que está matriculado

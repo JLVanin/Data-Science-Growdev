@@ -1,6 +1,6 @@
 -- Consultas
 
--- Dados de cada aluno matriculado na academia e as modalidades em que est�o matriculados:
+-- Dados de cada aluno matriculado na academia e as modalidades em que estao matriculados:
 
 select
 	a.nome,
@@ -14,7 +14,7 @@ join matricula m on
 join turma t on
 	t.id_turma = m.id_matricula 
 
---Dados de cada instrutor da academia, e os hor�rios de suas turmas:
+--Dados de cada instrutor da academia, e os horarios de suas turmas:
 	
 select
 	i.nome,
@@ -30,7 +30,7 @@ join tel_instrutor ti on
 join turma t on
 	t.id_turma = i.id_instrutor 
 	
---Hor�rio de aula de um aluno espec�fico:
+--Horario de aula de um aluno especifico:
 	
 select
 	a.nome,
@@ -43,7 +43,7 @@ join turma t on
 where
 	a.nome = 'Emilia'
 	
---Faltas de um aluno espec�fico com base nas turmas em que est� matriculado:
+--Faltas de um aluno especifico com base nas turmas em que esta matriculado:
 	
 select
 	a.nome,
@@ -58,7 +58,7 @@ join aluno a on
 where
 	m.id_turma = 2
 	and rp.presente = false
-	and a.nome = 'Tha�s'
+	and a.nome = 'Thais'
 group by
 	a.nome,
 	m.id_turma

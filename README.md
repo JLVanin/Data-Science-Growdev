@@ -1,6 +1,6 @@
 ## Data Science Growdev
 
-### Estrutura da Formação Data Science.
+### Cronograma Macro.
 
 - ONBOARDING - 20h
 - INTRODUÇÃO À COMPUTAÇÃO - 20h

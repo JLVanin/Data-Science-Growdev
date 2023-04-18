@@ -1,5 +1,7 @@
 # Criação de visual utilizando Python + Plotly
 
+### PowerBI - [Análise Sobre Acesso a Tecnologia e Informação](https://app.powerbi.com/view?r=eyJrIjoiMjFiOTY1OTQtZjRiMC00OWYwLWE0OTYtMGY2YWRjYzIxNjkxIiwidCI6ImE4NjEwYzg0LTc1ZjYtNDYwYi1iZDYyLWI2NjkwMmEwM2E4MSJ9)
+
 Utilizando os dados do Censo Escolar de 2021, disponibilizados pelo INEP, seguem
 as orientações gerais da atividade:
 
